@@ -1,4 +1,4 @@
-Haftungsausschluss:
+Allgemein:
 Ich bin ein deutscher Hobby-Programmierer und stelle hier einige meiner Projekte aus Spaß zur Verfügung. 
 Ich hoffe, dass ihr diese gut nutzen könnt und Freude daran habt. 
 Natürlich ist immer Verbesserung möglich, weshalb ich offen für konstruktive Vorschläge bin.
